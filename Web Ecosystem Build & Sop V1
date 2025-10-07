@@ -1,0 +1,70 @@
+<!doctype html>
+</section>
+
+
+<!-- Press -->
+<section id="press" class="bg-white border-t">
+<div class="max-w-6xl mx-auto px-4 py-14">
+<h2 class="h1 text-3xl">Press & Media</h2>
+<ul class="mt-6 grid md:grid-cols-3 gap-6 text-sm">
+<li class="p-5 border rounded-xl bg-[var(--linen)]">Press Kit (PDF) — One‑pager, bio, book list, contact</li>
+<li class="p-5 border rounded-xl bg-[var(--linen)]">Media Inquiries — <a class="underline" href="mailto:press@dorothylspublishing.com">press@dorothylspublishing.com</a></li>
+<li class="p-5 border rounded-xl bg-[var(--linen)]">Speaking & Workshops — Request a booking</li>
+</ul>
+</div>
+</section>
+
+
+<!-- Email Capture -->
+<section id="contact" class="max-w-6xl mx-auto px-4 py-14">
+<div class="p-8 bg-white border rounded-2xl">
+<h2 class="h1 text-3xl">Stay in the Loop</h2>
+<p class="mt-2 text-neutral-700">Get new releases, workshops, and live events.</p>
+<form class="mt-6 grid sm:grid-cols-[1fr_auto] gap-3">
+<input class="border rounded-lg px-4 py-3" placeholder="Your email address" type="email" required>
+<button class="px-5 py-3 bg-[var(--gold)] text-white rounded-lg">Subscribe</button>
+</form>
+<p class="mt-3 text-xs text-neutral-500">We respect your privacy. Unsubscribe anytime.</p>
+</div>
+</section>
+
+
+<!-- Footer -->
+<footer class="bg-[#111] text-white">
+<div class="max-w-6xl mx-auto px-4 py-10 grid md:grid-cols-4 gap-8 text-sm">
+<div>
+<div class="font-semibold">Dorothy L’s Publishing</div>
+<p class="mt-2 text-neutral-400">Stories that build legacy.</p>
+</div>
+<div>
+<div class="font-semibold">Explore</div>
+<ul class="mt-2 space-y-1 text-neutral-300">
+<li><a href="#books" class="hover:text-white">Books & Journals</a></li>
+<li><a href="#services" class="hover:text-white">Services</a></li>
+<li><a href="#academy" class="hover:text-white">Academy</a></li>
+<li><a href="#podcast" class="hover:text-white">Podcast</a></li>
+</ul>
+</div>
+<div>
+<div class="font-semibold">Company</div>
+<ul class="mt-2 space-y-1 text-neutral-300">
+<li><a href="#about" class="hover:text-white">About</a></li>
+<li><a href="#press" class="hover:text-white">Press</a></li>
+<li><a href="#contact" class="hover:text-white">Contact</a></li>
+</ul>
+</div>
+<div>
+<div class="font-semibold">Legal</div>
+<ul class="mt-2 space-y-1 text-neutral-300">
+<li><a href="#" class="hover:text-white">Privacy Policy</a></li>
+<li><a href="#" class="hover:text-white">Terms of Use</a></li>
+<li><a href="#" class="hover:text-white">Accessibility</a></li>
+</ul>
+</div>
+</div>
+<div class="border-t border-white/10">
+<div class="max-w-6xl mx-auto px-4 py-4 text-xs text-neutral-400">© Dorothy L. Reddick — All rights reserved.</div>
+</div>
+</footer>
+</body>
+</html>
