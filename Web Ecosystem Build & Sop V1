@@ -68,3 +68,7 @@
 </footer>
 </body>
 </html>
+git add .
+git commit -m "Upload full site files"
+git push origin main
+
